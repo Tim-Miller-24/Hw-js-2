@@ -1,105 +1,106 @@
 
 // Дз с часами 
 
-/* 
+
 var time = prompt('Введите время в часах от 0 до 24');
 
 switch (time) {
-    case 0:
+    case '0':
         alert('12 часов ночи. Либо же 0 часов - начало суток');
         break;
 
-    case 1:
+    case '1':
         alert('Час ночи');
         break;
 
-    case 2:
+    case '2':
         alert('2 часа ночи');
         break;
 
-    case 3:
+    case '3':
         alert('3 часа ночи');
         break;
 
-    case 4:
+    case '4':
         alert('4 часа ночи');
         break;
 
-    case 5:
+    case '5':
         alert('5 часов ночи');
         break;
 
-    case 6:
+    case '6':
         alert('6 часов утра');
         break;
 
-    case 7:
+    case '7':
         alert('7 часов утра');
         break;
 
-    case 8:
+    case '8':
         alert('8 часов утра');
         break;
 
-    case 9:
+    case '9':
         alert('9 часов утра');
         break;
 
-    case 10:
+    case '10':
         alert('10 часов утра');
         break;
 
-    case 11:
+    case '11':
         alert('11 часов утра');
         break;
 
-    case 12:
+    case '12':
         alert('12 часов дня');
         break;
 
-    case 13:
+    case '13':
         alert('час дня');
         break;
 
-    case 14:
+    case '14':
         alert('2 часа дня');
         break;
 
-    case 15:
+    case '15':
         alert('3 часа дня');
         break;
 
-    case 16:
+    case '16':
         alert('4 часа дня');
         break;
 
-    case 17:
+    case '17':
         alert('5 часа дня');
         break;
 
-    case 18:
+    case '18':
         alert('6 часов вечера');
         break;
 
-    case 19:
+    case '19':
         alert('7 часов вечера');
         break;
 
-    case 20:
+    case '20':
         alert('8 часов вечера');
         break;
 
-    case 21:
+    case '21':
         alert('9 часов вечера');
         break;
 
-    case 22:
+    case '22':
         alert('10 часов ночи');
         break;
-    case 23:
+    case '23':
         alert('11 часов ночи');
+        break;
 
-    case 24:
+    case '24':
         alert('12 часов ночи. Либо же 0 часов - начало суток');
         break;
 
@@ -108,14 +109,14 @@ switch (time) {
         break;
 }
 
- */
+
 
 
 
 
 
 // Дз с числами
-
+/* 
 alert('Введите 3 случайных числа');
 
 var frst = +prompt('Первое число');
@@ -148,4 +149,4 @@ if ((frst < scnd && scnd < thrd) || (frst > scnd && scnd > thrd)) {
     alert('Не удалось вычислить');
 }
 
-
+ */
